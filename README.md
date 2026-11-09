@@ -1,6 +1,6 @@
 # Stalcraft Trade
 
-A player-to-player marketplace for the game STALCRAFT: buy and sell orders, real-time auction data, price analytics and Discord deals.
+A player-to-player marketplace for the game STALZONE (formerly STALCRAFT): buy and sell orders, real-time auction data, price analytics and Discord deals.
 
 [stalcraft.trade](https://stalcraft.trade)
 
@@ -9,9 +9,9 @@ A player-to-player marketplace for the game STALCRAFT: buy and sell orders, real
 ## At a glance
 | | |
 |---|---|
-| My role | Co-founder and lead backend developer, Stalcraft LAB |
+| My role | Co-founder and lead backend developer, Stalcraft LAB, Apr 2023 – Oct 2026 |
 | Releases | 1.0 (Jul 2024) · 2.0 (Oct 2024) · 2.1 (Jan 2025) |
-| Status | In September 2026 the site became a microservice and its features moved into [Stalcraft Wiki](https://github.com/IgorJs2/StalcraftWikiSite) |
+| Status | In September 2026 the site became a microservice and its features moved into [STALZONE Wiki](https://github.com/IgorJs2/StalcraftWikiSite) |
 
 ![screenshot](https://github.com/user-attachments/assets/8bd8837c-c963-44f4-8a72-d6b3a3725615)
 
